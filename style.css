@@ -1,5 +1,9 @@
-
-
+/* Media Query */
+@media (max-width:700px) {
+    .carousle-heading{
+        font-size: larger;
+    }
+}
 #main{
     font-family: 'Arvo', serif;
 }
